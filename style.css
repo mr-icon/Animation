@@ -37,6 +37,6 @@
 
 @keyframes rotation {
   100% {
-    Stransform: rotateY(360deg);
+    transform: rotateY(360deg);
   }
 }
